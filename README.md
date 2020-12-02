@@ -1,6 +1,6 @@
 # AR-Magic
 
-playground project
+###### playground project
 
 
 the keyboard works, is a modification of -> https://github.com/didierbrun/DBPathRecognizer 
@@ -16,7 +16,7 @@ QuadCurveControl.swift : use preview and next point in a orthonormal coordinate 
 
 
 
-Augmented reality : pending project
+###### Augmented reality : pending project
 
 I wait more documentation for understand link and incompatibility between ARKit <-> Reality composer <-> StriteKit <-> RealityKit. 
 
