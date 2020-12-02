@@ -3,12 +3,12 @@
 # Work in progress.
 
 
-# the keyboard works, is a modification of -> https://github.com/didierbrun/DBPathRecognizer
-# Convert from old Storyboard project to Swift UI.
-# Add QuadCurveControl.swift -> for smooth the form draw.
+the keyboard works, is a modification of -> https://github.com/didierbrun/DBPathRecognizer
+Convert from old Storyboard project to Swift UI.
+Add QuadCurveControl.swift -> for smooth the form draw.
 
-## path.addQuadCurve(to: CGPoint(),  control: CGPoint() )
-## QuadCurveControl.swift : use preview and next point in a orthonormal coordinate system for create an control point. 
+path.addQuadCurve(to: CGPoint(),  control: CGPoint() )
+QuadCurveControl.swift : use preview and next point in a orthonormal coordinate system for create an control point. 
 
 
 
